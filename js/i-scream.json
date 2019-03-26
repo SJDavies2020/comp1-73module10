@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+        "name": "Likety Lime",
+        "calories": 425,
+        "type": "frozen yogurt",
+        "ingredients": [
+          "limes",
+          "lemons",
+          "candy sprinkles"
+        ],
+        "image": "lickety-lime.svg"
+    },
+      {
+        "name": "Orangy Orange",
+        "calories": 425,
+        "type": "frozen yogurt",
+        "ingredients": [
+          "wild oranges",
+          "chocolate dip",
+          "candy sprinkles"
+        ],
+        "image": "orangy-orange.svg"
     }
   ]
 }
